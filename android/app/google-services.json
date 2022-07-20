@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637009496699",
+    "project_id": "phone-fe96c",
+    "storage_bucket": "phone-fe96c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637009496699:android:e9ea1f4a844856f73f30de",
+        "android_client_info": {
+          "package_name": "com.example.phone_au"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637009496699-df4sjo2fqo9cl74p27licuvqutouoqtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtAm0Ih13ckXh7Hp0EPG6_3x2Ol5Wr9ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637009496699-df4sjo2fqo9cl74p27licuvqutouoqtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
